@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "datamore ci/cd",
+  "label": "build",
   "message": "passing",
   "color": "green"
 }
