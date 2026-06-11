@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# allow this repo metadata
+!.gitignore
+!README.md
+
+# allow badge file(s)
+!status.json
