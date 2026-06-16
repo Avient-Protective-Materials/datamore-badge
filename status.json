@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "build",
-  "message": "cancelled",
-  "color": "lightgrey"
+  "message": "passing",
+  "color": "green"
 }
